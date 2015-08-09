@@ -4,7 +4,7 @@ date: 2013-10-30
 comments: true
 sharing: true
 footer: true
-categories: s3
+tags: [s3]
 author: "Ramjee Ganti"
 ---
 This domain ramjeeganti.com has been defunct for more than an year now. I was hosting it with a friends and server and did not bother to move it when he shutdown the hosting service. Recently I decided to revive my writing and a no brainer was to revive my domain [ramjeeganti.com](http://www.ramjeeganti.com)

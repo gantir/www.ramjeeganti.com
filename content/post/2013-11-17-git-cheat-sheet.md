@@ -4,7 +4,7 @@ date: 2013-11-17
 comments: true
 sharing: true
 footer: true
-categories: git reference
+tags: [git, reference]
 author: "Ramjee Ganti"
 ---
 

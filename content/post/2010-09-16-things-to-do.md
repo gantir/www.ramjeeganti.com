@@ -4,7 +4,7 @@ date: 2010-09-16
 comments: true
 sharing: true
 footer: true
-categories: [goal, personal, recycled-post]
+tags: [goal, personal, recycled-post]
 author: "Ramjee Ganti"
 ---
 It has been a long long time to be precise just more than an year since any kind of activity on this blog. I take the blame. Partly due to laziness , partly due to writers block, and a lot due to lack of focus.

@@ -4,7 +4,7 @@ date: 2009-09-02
 comments: true
 sharing: true
 footer: true
-categories: [events, webanalytics, recycled-post]
+tags: [events, webanalytics, recycled-post]
 author: "Ramjee Ganti"
 ---
 It is about three weeks since we met for WAW Bangalore. What a terrific meet it was. For those of you who were not present let me give a brief recount of that evening.

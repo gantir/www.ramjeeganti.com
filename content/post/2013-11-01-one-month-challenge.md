@@ -4,7 +4,7 @@ date: 2013-11-01
 comments: true
 sharing: true
 footer: true
-categories: [1month, 1month-start]
+tags: [1month, 1month-start]
 author: "Ramjee Ganti"
 ---
 If you look at my other blog properties
