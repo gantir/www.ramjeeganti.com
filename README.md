@@ -12,3 +12,4 @@ A few themes that I would have to include as I go.
 
 Reference Links
 http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
+http://zackofalltrades.com/notes/2014/05/hugo-from-scratch/
