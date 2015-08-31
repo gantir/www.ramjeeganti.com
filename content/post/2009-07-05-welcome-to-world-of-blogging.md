@@ -4,7 +4,7 @@ date: 2009-07-05
 comments: true
 sharing: true
 footer: true
-tags: [webanalytics, recycled-post]
+categories: [webanalytics, recycled-post]
 author: "Ramjee Ganti"
 ---
 

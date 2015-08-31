@@ -4,7 +4,7 @@ date: 2014-01-12
 comments: true
 sharing: true
 footer: true
-tags: [productivity, timemanagement]
+categories: [productivity, timemanagement]
 author: "Ramjee Ganti"
 ---
 Time is very scarce and especially when you have a two year old kid who is vying for all your attention. Over the past few months it has been very hectic both at work and home. A direct consequence of this is a huge premium on my time (not that it was cheap earlier). On my quest to better manage myself and my time, I am constantly on the lookout for some practical solutions. One of them being optimizing email.

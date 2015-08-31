@@ -4,7 +4,7 @@ date: 2013-11-18
 comments: true
 sharing: true
 footer: true
-tags: [dns, network, reference]
+categories: [dns, network, reference]
 author: "Ramjee Ganti"
 ---
 Recently I moved ramjeeganti.com to this current place on s3. In an earlier [post](/blog/2013/10/30/ramjeeganti-dot-com-on-s3/) I mentioned about moving my site to amazon-s3 and octopress. Shortly after the movement, I found that the domain "ramjeeganti.com" was not at all resolving.

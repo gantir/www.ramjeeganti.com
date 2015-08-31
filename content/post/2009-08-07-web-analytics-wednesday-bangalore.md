@@ -4,7 +4,7 @@ date: 2009-08-07
 comments: true
 sharing: true
 footer: true
-tags: [events, waw, webanalytics, recycled-post]
+categories: [events, waw, webanalytics, recycled-post]
 author: "Ramjee Ganti"
 ---
 I am off radar of any kind of social events for some time. I am now back with helping the organization of Web Analytics Wednesday Bangalore, August 2009. The event is on 12th August at Indiranagar Club.

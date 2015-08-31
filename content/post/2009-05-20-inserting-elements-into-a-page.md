@@ -4,7 +4,7 @@ date: 2009-05-20
 comments: true
 sharing: true
 footer: true
-tags: [javascript, programming, recycled-rganti, recycled-post]
+categories: [javascript, programming, recycled-rganti, recycled-post]
 author: "Ramjee Ganti"
 ---
 The following code snippet is to help insert a code snippet into a page without using document.write.
