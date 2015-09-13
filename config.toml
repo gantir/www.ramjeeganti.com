@@ -1,7 +1,7 @@
-baseurl = "www.ramjeeganti.com/"
+baseurl = "http://www.ramjeeganti.com/"
 languageCode = "en-us"
 title = "rAmg"
-disqus_shortname = "unknownunknown"
+disqusShortname = "unknownunknown"
 
 [permalinks]
     post = "blog/:year/:month/:day/:title/"
