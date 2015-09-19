@@ -7,8 +7,8 @@ footer: true
 categories: [dns, network, reference]
 author: "Ramjee Ganti"
 ---
-Recently I moved ramjeeganti.com to this current place on s3. In an earlier [post](/blog/2013/10/30/ramjeeganti-dot-com-on-s3/) I mentioned about moving my site to amazon-s3 and octopress. Shortly after the movement, I found that the domain "ramjeeganti.com" was not at all resolving.
-Shortly there after I found that my google apps has not updated the mails for over a da, though it was allowing me to send mails. This made me suspicious and finally figured out that the dns nameserver entries had to updated.
+Recently I moved ramjeeganti.com to this current place on s3. In an earlier [post](/blog/2013/10/30/ramjeeganti-dot-com-on-s3/) I mentioned about moving my site to amazon-s3 and octopress. Shortly after the move, I found that the domain "ramjeeganti.com" was not at all resolving.
+Shortly there after I found that my google apps has not updated the mails for over a day, though it was allowing me to send mails. This made me suspicious and I finally figured out that the dns nameserver entries had to updated.
 
 The domain registrar where this domain is registered failed to update me on the nameserver change. I just had to update the nameservers to fix the issue. What is more interesting is in the process of root causing the problem, I came across multiple tools which can help in figuring out the issue.
 <pre>
