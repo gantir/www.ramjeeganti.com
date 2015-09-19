@@ -10,6 +10,9 @@ A few themes that I would have to include as I go.
 * http://sa.muel.be/
 * https://npf.io/2014/08/making-it-a-series/
 
+For Automated Deployment the following post helped
+http://loads.pickle.me.uk/2015/07/25/hugo-s3-hosting/
+
 Reference Links
 http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
 http://zackofalltrades.com/notes/2014/05/hugo-from-scratch/
