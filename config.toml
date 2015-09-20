@@ -1,4 +1,4 @@
-baseurl = "//ramjeeganti.com/"
+baseurl = "http://ramjeeganti.com/"
 languageCode = "en-us"
 title = "rAmg"
 disqusShortname = "unknownunknown"
@@ -15,10 +15,10 @@ disqusShortname = "unknownunknown"
     description = "personal webspace of Ramjee Ganti"
     email = "site@ramjeeganti.com"
     ga = "UA-893783-6"
-    hostname = "www.ramjeeganti.com"
+    hostname = "ramjeeganti.com"
     comments = true
 
 [author]
     name = "Ramjee Ganti"
-    image = "//ramjeeganti.com/images/mug-shot.jpg"
+    image = "http://ramjeeganti.com/images/mug-shot.jpg"
     description = "trying to find the meaning of 42."
