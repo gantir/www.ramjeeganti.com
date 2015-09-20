@@ -1,4 +1,4 @@
-# www.ramjeeganti.com
+# ramjeeganti.com
 My Personal Website built in Hugo
 
 A few themes that I would have to include as I go.
