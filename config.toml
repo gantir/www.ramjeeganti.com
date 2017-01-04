@@ -2,6 +2,7 @@ baseurl = "http://ramjeeganti.com/"
 languageCode = "en-us"
 title = "rAmg"
 disqusShortname = "unknownunknown"
+metaDataFormat = "yaml"
 
 [permalinks]
     post = "blog/:year/:month/:day/:title/"
