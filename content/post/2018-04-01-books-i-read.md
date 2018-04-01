@@ -12,6 +12,5 @@ Since moving back to Bangalore have gotten back to reading. Though no where near
 
 The following is the list of books in particualr order:
 
-* <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rganti-21&marketplace=amazon&region=IN&placement=8191009609&asins=8191009609&linkId=72b4720ca03f4e88fe776162f494e86d&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+* <a target="_blank" href="https://www.amazon.in/gp/product/8191009609/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8191009609&linkCode=as2&tag=rganti-21&linkId=d72e95f356d4b89ee0a07c667b1e9050">Apprenticed to a Himalayan Master: A Yogi's Autobiography</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=rganti-21&l=am2&o=31&a=8191009609" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
