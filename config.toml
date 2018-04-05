@@ -1,8 +1,10 @@
-baseurl = "http://ramjeeganti.com/"
+baseURL = "https://ramjeeganti.com/"
 languageCode = "en-us"
 title = "rAmg"
-disqusShortname = "unknownunknown"
+theme = "crisp"
 metaDataFormat = "yaml"
+enableRobotsTXT = true
+disqusShortname = "unknownunknown"
 
 [permalinks]
     post = "blog/:year/:month/:day/:title/"
@@ -18,8 +20,8 @@ metaDataFormat = "yaml"
     ga = "UA-893783-6"
     hostname = "ramjeeganti.com"
     comments = true
-
+    
 [author]
     name = "Ramjee Ganti"
-    image = "http://ramjeeganti.com/images/mug-shot.jpg"
+    image = "https://ramjeeganti.com/images/mug-shot.jpg"
     description = "trying to find the meaning of 42."
