@@ -6,7 +6,7 @@ sharing: true
 footer: true
 tags: [keto, robert-lustig]
 categories: [health]
-series: [ "Getting Health"]
+series: [ "Getting Healthy"]
 author: "Ramjee Ganti"
 ---
 
