@@ -7,7 +7,7 @@ footer: true
 categories: [s3]
 author: "Ramjee Ganti"
 ---
-This domain ramjeeganti.com has been defunct for more than an year now. I was hosting it with a friends and server and did not bother to move it when he shutdown the hosting service. Recently I decided to revive my writing and a no brainer was to revive my domain [ramjeeganti.com](http://www.ramjeeganti.com)
+This domain ramjeeganti.com has been defunct for more than an year now. I was hosting it with a friends and server and did not bother to move it when he shutdown the hosting service. Recently I decided to revive my writing and a no brainer was to revive my domain [ramjeeganti.com](https://www.ramjeeganti.com)
 
 My earlier blog was hosted on wordpress. When looking to revive this blog, I was looking for:
 
@@ -17,6 +17,6 @@ My earlier blog was hosted on wordpress. When looking to revive this blog, I was
 
 * No database
 
-The search resulted in an favor of a static website hosted on amazon s3. A little more digging and I found octopress. The basic setup was a breeze. One just has to follow the steps listed at [octopress.org](http://octopress.org/docs/setup/).
+The search resulted in an favor of a static website hosted on amazon s3. A little more digging and I found octopress. The basic setup was a breeze. One just has to follow the steps listed at [octopress.org](https://octopress.org/docs/setup/).
 
-I chose the [Oscailte theme](http://coog.ie/blog/2013/08/18/a-new-octopress-theme/) by [Stephen Coogan](http://coog.ie/). This is just the starting and I have quite a few customizations in mind. But following the software philosophy of "[release often, release early](http://en.wikipedia.org/wiki/Release_early,_release_often)", I am going with Oscailte theme as is for now. Following the same approach, meant using [Disqus](http://disqus.com/) for comments.
+I chose the [Oscailte theme](https://coog.ie/blog/2013/08/18/a-new-octopress-theme/) by [Stephen Coogan](https://coog.ie/). This is just the starting and I have quite a few customizations in mind. But following the software philosophy of "[release often, release early](https://en.wikipedia.org/wiki/Release_early,_release_often)", I am going with Oscailte theme as is for now. Following the same approach, meant using [Disqus](https://disqus.com/) for comments.

@@ -8,7 +8,7 @@ categories: [git, reference]
 author: "Ramjee Ganti"
 ---
 
-A few months back we migrated from [svn](http://svnbook.red-bean.com/) to [git](http://git-scm.com/book) at office. If there is one thing I regret in my work at [Justeat.in](http://justeat.in), it is why did I not move to git earlier. The move significantly reduced our time to resolve conflicts and release code to production. I will talk about my experiences with git in a different post. I have commited most used commands to memory. In here, I am documenting some of the other commands which I keep looking up once in a while.
+A few months back we migrated from [svn](https://svnbook.red-bean.com/) to [git](https://git-scm.com/book) at office. If there is one thing I regret in my work at [Justeat.in](https://justeat.in), it is why did I not move to git earlier. The move significantly reduced our time to resolve conflicts and release code to production. I will talk about my experiences with git in a different post. I have commited most used commands to memory. In here, I am documenting some of the other commands which I keep looking up once in a while.
 
 <pre>
 <code class="language-bash">
@@ -62,6 +62,6 @@ A few months back we migrated from [svn](http://svnbook.red-bean.com/) to [git](
 git config --global alias.tag-date "for-each-ref --sort='*authordate' --format='%(taggerdate) %(tag)' refs/tag"
 </code>
 </pre>
-These are apart from the basic commands without which we cannot use git. For someone looking for a more coomprehensive git cheat sheet head [here](http://www.git-tower.com/blog/git-cheat-sheet-detail/)
+These are apart from the basic commands without which we cannot use git. For someone looking for a more coomprehensive git cheat sheet head [here](https://www.git-tower.com/blog/git-cheat-sheet-detail/)
 
 (1): When a repository is cloned, it has a default remote called origin that points to your fork on remote repository, not the original repository it was forked from. To keep track of the original repository, you need to add another remote named upstream.
