@@ -12,10 +12,10 @@ Soft, soothing music aka the 60s, 70s Hindi melodies is something I love to list
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgKueB7fCzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-This post is not about that. I wanted to watch the video and searched on my phone for "Ek Ajnabee Haseena Se", I was pretty surprised to see that the first result was not the original song but a remake musical video. I was a tad disappointed and was furious on knowing that it was actually an advertisement for [Doublemint](https://en.wikipedia.org/wiki/Doublemint). However, something made stopped me from closing the video, it felt vaguely familiar. When I played it I could not stop smiling and slipping into nostalgia.
+This post is not about that. I wanted to watch the video and searched on my phone for "Ek Ajnabee Haseena Se", I was pretty surprised to see that the first result was not the original song but a musical video remake. I was a tad disappointed to start with and was furious on knowing that it was actually an advertisement for [Doublemint](https://en.wikipedia.org/wiki/Doublemint). However, something stopped me from closing the video, it felt vaguely familiar. When I played it I was beeming with a smile and slipped into nostalgia.
 
-I am not a fan of remakes, rarely have I seen a remake which can match the original leave alone up the game. But here is one, which not only holds a candle to the original but in my opinion slightly surpasses it, at least for its massively cheesily cute video.
+I am not a fan of remakes, rarely have I seen a remake which can match the original, leave alone upping the game. But here is one, which not only holds a candle to the original but also slightly surpasses it, at least for its massively cheesily cute video.
 
-Go watch it here and get lost...
+Go watch it here and get the past rolling...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UjlpUnT7QE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
